@@ -1,4 +1,4 @@
-Here are some suggestions for content you can add to your README file for your data-science-books repository:
+Here is your README text with the license section removed:
 
 ---
 
@@ -14,13 +14,12 @@ A curated collection of resources, books, and references for learning data scien
 - [How to Use](#how-to-use)
 - [Book List](#book-list)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
 ### About
 
-This repository is a compilation of recommended books and materials for anyone interested in data science, ranging from beginner to advanced levels. Whether you're a student, professional, or enthusiast, you'll find valuable resources here.
+This repository is a compilation of recommended books and materials for anyone interested in data science, ranging from beginner to advanced levels. Whether you're a student, professional, or enthusiast, you'll find something valuable here.
 
 ---
 
@@ -44,10 +43,4 @@ Contributions are welcome! If you know a great data science book that isn't list
 
 ---
 
-### License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you want a more customized version, or if you want this placed in your README.md file!
+Let me know if you need further customization!
